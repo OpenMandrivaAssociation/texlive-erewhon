@@ -1,6 +1,6 @@
 Name:		texlive-erewhon
-Version:	63312
-Release:	2
+Version:	70759
+Release:	1
 Summary:	Font package derived from Heuristica and Utopia
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/erewhon
